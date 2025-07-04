@@ -72,7 +72,7 @@
             <groupId>fr.inria.gforge.spoon</groupId>
             <artifactId>spoon-core</artifactId>
             <!-- See rendered release value at https://spoon.gforge.inria.fr/ -->
-            <version>11.0.0</version>
+            <version>11.2.0</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
